@@ -1,0 +1,4 @@
+#VM swap files
+*.~
+*.swp
+*.swo
